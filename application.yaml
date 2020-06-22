@@ -3,3 +3,6 @@ eureka:
     registry-fetch-interval-seconds: 5
     service-url:
       defaultZone: http://localhost:8761/eureka
+spring:
+  application:
+    name: new-cloud-config
